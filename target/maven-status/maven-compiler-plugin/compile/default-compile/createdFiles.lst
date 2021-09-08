@@ -1,0 +1,6 @@
+com/core/utilities/results/SuccessResult.class
+com/core/utilities/results/ErrorResult.class
+com/core/utilities/results/DataResult.class
+com/core/utilities/results/ErrorDataResult.class
+com/core/utilities/results/SuccessDataResult.class
+com/core/utilities/results/Result.class
